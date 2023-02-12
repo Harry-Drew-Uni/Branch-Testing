@@ -1,0 +1,15 @@
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\bin\Debug\net6.0\CountingProgram.exe
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\bin\Debug\net6.0\CountingProgram.deps.json
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\bin\Debug\net6.0\CountingProgram.runtimeconfig.json
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\bin\Debug\net6.0\CountingProgram.dll
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\bin\Debug\net6.0\CountingProgram.pdb
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\obj\Debug\net6.0\CountingProgram.csproj.AssemblyReference.cache
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\obj\Debug\net6.0\CountingProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\obj\Debug\net6.0\CountingProgram.AssemblyInfoInputs.cache
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\obj\Debug\net6.0\CountingProgram.AssemblyInfo.cs
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\obj\Debug\net6.0\CountingProgram.csproj.CoreCompileInputs.cache
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\obj\Debug\net6.0\CountingProgram.dll
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\obj\Debug\net6.0\refint\CountingProgram.dll
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\obj\Debug\net6.0\CountingProgram.pdb
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\obj\Debug\net6.0\CountingProgram.genruntimeconfig.cache
+C:\Users\eddre\Documents\University Year 2\GitHub\Branch-Testing\CountingProgram\CountingProgram\obj\Debug\net6.0\ref\CountingProgram.dll
